@@ -1,0 +1,8 @@
+= Redmine My Page Feed Syndication
+
+Add RSS feed syndication block on my page screen
+
+= Install
+
+script/plugin install 
+git@github.com:herewithme/redmine_my_page_feed.git
